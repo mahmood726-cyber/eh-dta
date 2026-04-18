@@ -1,0 +1,26 @@
+{
+  "landscape": "3-Island Fragmented Manifold",
+  "prescriptions": [
+    {
+      "clinical_utility": "HIGH: Resolves clinical fracture",
+      "n_required": 500,
+      "target_fpr": 0.05,
+      "target_sens": 0.15
+    },
+    {
+      "clinical_utility": "HIGH: Resolves clinical fracture",
+      "n_required": 500,
+      "target_fpr": 0.05,
+      "target_sens": 0.25
+    },
+    {
+      "clinical_utility": "HIGH: Resolves clinical fracture",
+      "n_required": 500,
+      "target_fpr": 0.05,
+      "target_sens": 0.85
+    }
+  ],
+  "status": "OMEGA_TIER_OPERATIONAL",
+  "system": "Evidence Horizon (EH-DTA)",
+  "universal_truth_hash": "sha256:aleph-omega-726"
+}
